@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib.h>
+// cotton candy |sausage |French fries |popcorn
+// pop ice |soft drink |lemon water |
+
+int main (void)
+{
+    system ("color 0b");
+    int hcotton_candy, hsausage, hFrench_fries, hpopcorn, hpop_ice, hsoft_drink, hjuice;
+    int total,total2, makanan, minuman, pilih, ulang, drink;
+    
+    hcotton_candy=25000;
+    hsausage=20000;
+    hFrench_fries=30000;
+    hpopcorn=35000;
+    hpop_ice=20000;
+    hsoft_drink=15000;
+    hjuice=20000;
